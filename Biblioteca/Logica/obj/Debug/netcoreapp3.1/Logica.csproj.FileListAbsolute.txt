@@ -1,0 +1,14 @@
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\bin\Debug\netcoreapp3.1\Datos.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\bin\Debug\netcoreapp3.1\Entidades.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\bin\Debug\netcoreapp3.1\Datos.pdb
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\bin\Debug\netcoreapp3.1\Entidades.pdb
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\obj\Debug\netcoreapp3.1\Logica.csprojAssemblyReference.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CopyComplete
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Logica\obj\Debug\netcoreapp3.1\Logica.pdb

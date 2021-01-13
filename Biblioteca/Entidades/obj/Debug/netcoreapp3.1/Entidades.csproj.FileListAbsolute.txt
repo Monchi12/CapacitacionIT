@@ -1,0 +1,9 @@
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

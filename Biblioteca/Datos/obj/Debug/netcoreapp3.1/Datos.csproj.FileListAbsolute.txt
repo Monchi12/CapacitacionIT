@@ -1,0 +1,12 @@
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\bin\Debug\netcoreapp3.1\Entidades.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\bin\Debug\netcoreapp3.1\Entidades.pdb
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\obj\Debug\netcoreapp3.1\Datos.csprojAssemblyReference.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+E:\Personal\Curso\CapacitacionIT\C#NET\Proyecto\Biblioteca\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
